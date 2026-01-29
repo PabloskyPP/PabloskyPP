@@ -10,8 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloskyPP&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=no%20hay%20investigaci%C3%B3n%20sin%20acci%C3%B3n%2C%20no%20hay%20acci%C3%B3n%20sin%20investigaci%C3%B3n&author=Kurt%20Lewin)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=There%20is%20no%20research%20without%20action%2C%20no%20action%20without%20research&author=Kurt%20Lewin)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PabloskyPP&icon=0&color=3)](https://visitcount.itsvg.in)

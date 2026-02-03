@@ -13,6 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloskyPP&layout=compact&hide=jupyter%20notebook)
 
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PabloskyPP)
 
 
 # 📊 GitHub Stats:
